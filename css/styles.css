@@ -145,3 +145,30 @@ h2 {
         transform: rotate(0deg);
     }
 }
+
+/* Call to Action */
+#cta {
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 7% 14%;
+}
+
+#cta h3 {
+    font-weight: 900;
+    font-size: 3.5rem;  
+    line-height: 1.5;  
+}
+
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 7% 14%;
+}
+
+#footer li {
+    padding: 5px;
+}
+
+#footer p {
+    color: #8f8f8f;
+}
